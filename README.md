@@ -41,5 +41,3 @@ _Coming soon — deploying this week_
 - Email: [your email]
 
 ---
-
-![Yamuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yamuna11181&show_icons=true&theme=default)
